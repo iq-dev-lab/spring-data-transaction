@@ -391,6 +391,6 @@ TestEntityManager
 
 <div align="center">
 
-**[다음: @Transactional in Test의 함정 ➡️](./02-transactional-test-pitfall.md)** | **[홈으로 🏠](../README.md)**
+**[다음: @Transactional in Test의 함정 ➡️](./02-transactional-test-pitfall.md)**
 
 </div>
