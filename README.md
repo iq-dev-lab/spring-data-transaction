@@ -320,6 +320,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"Repository를 만드는 것과, Repository가 어떻게 작동하는지 아는 것은 다르다"*
+**"Repository를 만드는 것과, Repository가 어떻게 작동하는지 아는 것은 다르다"**
 
 </div>
